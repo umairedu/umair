@@ -10899,13 +10899,10 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 12rem;
-    max-height: 14rem;
+    max-width: 10rem;
+    max-height: 10rem;
     border: 0.5rem solid rgba(255, 255, 255, 0.2);
   }
-
-/*  max-height: 10rem;*/
-
   #sideNav .navbar-collapse {
     display: flex;
     align-items: flex-start;
